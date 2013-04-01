@@ -1,3 +1,9 @@
+/*
+A touch heatmap with integration with led pixels.
+Dan Cote - GPLv2
+
+*/
+
 /* OpenProcessing Tweak of *@*http://www.openprocessing.org/sketch/46554*@* */
 /* !do not delete the line above, required for linking your tweak if you re-upload */
 
